@@ -1,4 +1,4 @@
-.button {
+.buttton {
 	-moz-box-shadow: 0px 1px 3px 0px #91b8b3;
 	-webkit-box-shadow: 0px 1px 3px 0px #91b8b3;
 	box-shadow: 0px 1px 3px 0px #91b8b3;
@@ -13,7 +13,7 @@
 	font-family:Arial;
 	font-size:12px;
 	font-weight:bold;
-	padding:11px 23px;
+	padding:9px 20px;
 	text-decoration:none;
 	text-shadow:0px 0px 0px #2b665e;
 }
@@ -24,6 +24,7 @@
 	position:relative;
 	top:1px;
 }
+
 
 
 .audio { margin-top:-20px;
