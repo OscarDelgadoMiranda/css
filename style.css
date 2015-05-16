@@ -13,6 +13,7 @@
 	font-family:Arial;
 	font-size:12px;
 	font-weight:bold;
+	margin-top: -20px; 
 	padding:11px 23px;
 	text-decoration:none;
 	text-shadow:0px -1px 0px #2b665e;
@@ -24,5 +25,3 @@
 	position:relative;
 	top:1px;
 }
-
-.audio { margin-top: -20px; }
