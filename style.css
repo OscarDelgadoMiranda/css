@@ -10,14 +10,6 @@ body {
 	padding-top: 110px; /* Relleno superior igual a la altura de la cabecera*/
 }
 
-audio:hover, audio:focus, audio:active {
-	padding-top: 110px; /* Relleno superior igual a la altura de la cabecera*/
-}
-
-audio {
-	padding-top: 110px; /* Relleno superior igual a la altura de la cabecera*/
-}
-
 h1 {
 	font-size: 2.3em;
 	line-height: 1.3em;
